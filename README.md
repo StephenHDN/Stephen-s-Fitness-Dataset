@@ -10,7 +10,7 @@
 - Format and Data Validatione
 - Eventually Data automation
 
-**🧹 Phase 3:Data Cleansing** ---------------------- **||** 👨‍💻 👨‍💻 **IN THE PROCESS**👨‍💻 👨‍💻 **||**
+**🧹 Phase 3:Data Cleansing** ---------------------- **||** 👨‍💻 👨‍💻 **IN THE PROCESS**👨‍💻 👨‍💻 **||** updated: Feb 8 2024
 - Identifying nulls, errors, duplicates, irrelevant, and inconsistent data
 - retrieving accurate defensible data for future processes
 
