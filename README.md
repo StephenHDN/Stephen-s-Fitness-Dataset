@@ -1,5 +1,7 @@
 # Stephen's-Fitness-Dataset
 
+read "Fitness Dataset Approach" for more indepth analysis
+
 **📝 Phase 1:Planning & Design** ------------------- **||** ✅✅ **COMPLETED** ✅✅ **||**
 - Defining goals
 - Key data points
