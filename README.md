@@ -1,16 +1,16 @@
 # Stephen's-Fitness-Dataset
 
-**📝 Phase 1:Planning & Design**
+**📝 Phase 1:Planning & Design** ------------------- **||** ✅✅ **COMPLETED** ✅✅ **||**
 - Defining goals
 - Key data points
 - Database Structure on Excel
 
-**👨‍💻 Phase 2:Data Collection and Entry**
-- Data Entry and collection
+**📋 Phase 2:Data Collection and Entry ------------- **||** ✅✅ **COMPLETED** ✅✅ **||**
+- Data Entry and collection for approximately 10-12 months
 - Format and Data Validatione
 - Eventually Data automation
 
-**🧹 Phase 3:Data Cleansing**
+**🧹 Phase 3:Data Cleansing** ---------------------- **||** 👨‍💻 👨‍💻 **IN THE PROCESS**👨‍💻 👨‍💻 **||**
 - Identifying nulls, errors, duplicates, irrelevant, and inconsistent data
 - retrieving accurate defensible data for future processes
 
