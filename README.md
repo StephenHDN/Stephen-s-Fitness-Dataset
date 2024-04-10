@@ -7,7 +7,7 @@ read "Fitness Dataset Approach" for more indepth analysis
 - Key data points
 - Database Structure on Excel
 
-**📋 Phase 2:Data Collection and Entry ------------- **||** ✅✅ **COMPLETED** ✅✅ **||**
+**📋 Phase 2:Data Collection and Entry** ------------- **||** ✅✅ **COMPLETED** ✅✅ **||**
 - Data Entry and collection for approximately 10-12 months
 - Format and Data Validatione
 - Eventually Data automation
